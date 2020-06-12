@@ -1,4 +1,7 @@
 
+[![Build Status](https://dev.azure.com/markwilson2/Space%20Game-%20web/_apis/build/status/GitMW.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/markwilson2/Space%20Game-%20web/_build/latest?definitionId=1&branchName=master)
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
